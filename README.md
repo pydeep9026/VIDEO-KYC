@@ -18,6 +18,12 @@
   </p>
 </div> 
 
+## Demo Video
+
+https://github.com/pydeep9026/VIDEO-KYC/assets/91087103/3762b34d-518e-4b1a-8654-c3d2c4a556e7
+
+
+
 
 
 
