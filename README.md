@@ -10,7 +10,7 @@
   <h3 align="center">Video-KYC Website</h3> 
  
   <p align="center">
-    A fullstack website built for a realtime video kyc
+    A fullstack website built for  realtime video kyc
     <br />  
     <br />  
     <a href="https://video-kyc.netlify.app">View live Demo</a>
