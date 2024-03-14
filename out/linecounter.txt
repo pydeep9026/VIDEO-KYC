@@ -1,0 +1,210 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2023-02-23 20:26:45
+count workspace : c:\Users\prade\CHAT-NEXUS
+total files : 77
+total code lines : 24250
+total comment lines : 205
+total blank lines : 572
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |             22|              1|              6|  0.091|
+   |          .json|          21691|              0|              7|     89|
+   |            .js|            331|             13|             63|    1.4|
+   |            .md|             21|              4|             15|  0.087|
+   |           .css|           1315|             88|            281|    5.4|
+   |           .jsx|            839|              1|            191|    3.5|
+   |           .svg|              1|              0|              0| 0.0041|
+   |           .txt|              6|             75|              9|  0.025|
+   |          .html|             21|             23|              0|  0.087|
+   |           .map|              3|              0|              0|  0.012|
+   -------------------------------------------------------------------------
+CLIENT\chat-front\.gitignore, code is 18, comment is 1, blank is 5.
+CLIENT\chat-front\build\asset-manifest.json, code is 14, comment is 0, blank is 1.
+CLIENT\chat-front\build\favicon.ico, it is a binary file.
+CLIENT\chat-front\build\index.html, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\logo192.png, it is a binary file.
+CLIENT\chat-front\build\manifest.json, code is 25, comment is 0, blank is 0.
+CLIENT\chat-front\build\robots.txt, code is 3, comment is 1, blank is 0.
+CLIENT\chat-front\build\static\css\main.64621b8b.css, code is 1, comment is 2, blank is 0.
+CLIENT\chat-front\build\static\css\main.64621b8b.css.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\static\js\787.40a0162b.chunk.js, code is 1, comment is 1, blank is 0.
+CLIENT\chat-front\build\static\js\787.40a0162b.chunk.js.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\static\js\main.3eb9c365.js, code is 1, comment is 3, blank is 0.
+CLIENT\chat-front\build\static\js\main.3eb9c365.js.LICENSE.txt, code is 0, comment is 73, blank is 9.
+CLIENT\chat-front\build\static\js\main.3eb9c365.js.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\package-lock.json, code is 18384, comment is 0, blank is 2.
+CLIENT\chat-front\package.json, code is 51, comment is 0, blank is 3.
+CLIENT\chat-front\public\favicon.ico, it is a binary file.
+CLIENT\chat-front\public\index.html, code is 20, comment is 23, blank is 0.
+CLIENT\chat-front\public\logo192.png, it is a binary file.
+CLIENT\chat-front\public\manifest.json, code is 25, comment is 0, blank is 0.
+CLIENT\chat-front\public\robots.txt, code is 3, comment is 1, blank is 0.
+CLIENT\chat-front\README.md, code is 21, comment is 4, blank is 15.
+CLIENT\chat-front\src\App.css, code is 33, comment is 0, blank is 5.
+CLIENT\chat-front\src\App.js, code is 17, comment is 0, blank is 3.
+CLIENT\chat-front\src\App.test.js, code is 7, comment is 0, blank is 1.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chat.css, code is 415, comment is 0, blank is 84.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chat.jsx, code is 221, comment is 0, blank is 59.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chatinput.css, code is 109, comment is 54, blank is 30.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chatinput.jsx, code is 88, comment is 0, blank is 26.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\deletechatsvg.jsx, code is 9, comment is 0, blank is 2.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\nochat.css, code is 34, comment is 31, blank is 9.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\nochat.jsx, code is 10, comment is 0, blank is 3.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\record.gif, it is a binary file.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\recording.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\reportsvg.jsx, code is 9, comment is 0, blank is 2.
+CLIENT\chat-front\src\chathome\chatmenu\contacts.css, code is 89, comment is 1, blank is 21.
+CLIENT\chat-front\src\chathome\chatmenu\contacts.jsx, code is 66, comment is 0, blank is 17.
+CLIENT\chat-front\src\chathome\chatmenu\header.css, code is 188, comment is 0, blank is 30.
+CLIENT\chat-front\src\chathome\chatmenu\header.jsx, code is 62, comment is 1, blank is 6.
+CLIENT\chat-front\src\chathome\chatmenu\index.jsx, code is 65, comment is 0, blank is 19.
+CLIENT\chat-front\src\chathome\chatmenu\style.css, code is 28, comment is 0, blank is 5.
+CLIENT\chat-front\src\chathome\loading.jsx, code is 47, comment is 0, blank is 14.
+CLIENT\chat-front\src\chathome\loadingsvg\loading.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading1.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading2.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading3.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading4.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading5.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\style.css, code is 77, comment is 0, blank is 16.
+CLIENT\chat-front\src\index.css, code is 13, comment is 0, blank is 2.
+CLIENT\chat-front\src\index.js, code is 15, comment is 3, blank is 2.
+CLIENT\chat-front\src\login\index.jsx, code is 93, comment is 0, blank is 15.
+CLIENT\chat-front\src\login\lock.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\login\login.css, code is 150, comment is 0, blank is 38.
+CLIENT\chat-front\src\login\svg.jsx, code is 11, comment is 0, blank is 3.
+CLIENT\chat-front\src\login\svgstyle.css, code is 30, comment is 0, blank is 7.
+CLIENT\chat-front\src\logo.svg, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\reportWebVitals.js, code is 12, comment is 0, blank is 1.
+CLIENT\chat-front\src\setupTests.js, code is 1, comment is 4, blank is 0.
+CLIENT\chat-front\src\signup\index.jsx, code is 146, comment is 0, blank is 21.
+CLIENT\chat-front\src\signup\signup.css, code is 148, comment is 0, blank is 34.
+CLIENT\chat-front\src\signup\svglogo.jsx, code is 12, comment is 0, blank is 4.
+CLIENT\chat-front\src\utils\apiroutes.js, code is 9, comment is 0, blank is 3.
+SERVER\.env, code is 2, comment is 0, blank is 0.
+SERVER\.gitignore, code is 2, comment is 0, blank is 1.
+SERVER\controllers\messagescontroller.js, code is 46, comment is 0, blank is 7.
+SERVER\controllers\reportcontroller.js, code is 22, comment is 0, blank is 3.
+SERVER\controllers\usercontroller.js, code is 65, comment is 0, blank is 11.
+SERVER\index.js, code is 43, comment is 2, blank is 18.
+SERVER\model\mesasgemodel.js, code is 20, comment is 0, blank is 2.
+SERVER\model\reportmodel.js, code is 28, comment is 0, blank is 2.
+SERVER\model\usermodel.js, code is 29, comment is 0, blank is 2.
+SERVER\package-lock.json, code is 3161, comment is 0, blank is 1.
+SERVER\package.json, code is 23, comment is 0, blank is 0.
+SERVER\README.md, it is a binary file.
+SERVER\routes\messagesroute.js, code is 6, comment is 0, blank is 5.
+SERVER\routes\userroutes.js, code is 9, comment is 0, blank is 3.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2023-02-26 21:26:55
+count workspace : c:\Users\prade\CHAT-NEXUS
+total files : 80
+total code lines : 24503
+total comment lines : 241
+total blank lines : 610
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|          21711|              0|              8|     89|
+   |               |             22|              1|              6|  0.090|
+   |            .js|            375|             15|             77|    1.5|
+   |    .javascript|             50|              1|              5|   0.20|
+   |           .txt|              6|             80|             10|  0.024|
+   |            .md|             21|              4|             15|  0.086|
+   |          .html|             20|             23|              0|  0.082|
+   |           .svg|              1|              0|              0| 0.0041|
+   |           .css|           1415|             88|            298|    5.8|
+   |           .jsx|            879|             29|            191|    3.6|
+   |           .map|              3|              0|              0|  0.012|
+   -------------------------------------------------------------------------
+CLIENT\chat-front\.gitignore, code is 18, comment is 1, blank is 5.
+CLIENT\chat-front\build\asset-manifest.json, code is 16, comment is 0, blank is 1.
+CLIENT\chat-front\build\favicon.png, it is a binary file.
+CLIENT\chat-front\build\index.html, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\manifest.json, code is 25, comment is 0, blank is 0.
+CLIENT\chat-front\build\robots.txt, code is 3, comment is 1, blank is 0.
+CLIENT\chat-front\build\static\css\main.dea08c7e.css, code is 1, comment is 2, blank is 0.
+CLIENT\chat-front\build\static\css\main.dea08c7e.css.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\static\js\787.40a0162b.chunk.js, code is 1, comment is 1, blank is 0.
+CLIENT\chat-front\build\static\js\787.40a0162b.chunk.js.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\static\js\main.8b2cd877.js, code is 1, comment is 3, blank is 0.
+CLIENT\chat-front\build\static\js\main.8b2cd877.js.LICENSE.txt, code is 0, comment is 78, blank is 10.
+CLIENT\chat-front\build\static\js\main.8b2cd877.js.map, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\build\static\media\contactload.db8d98a7096f5f6f3fee.gif, it is a binary file.
+CLIENT\chat-front\build\static\media\record.83b096d830fb447f218c.gif, it is a binary file.
+CLIENT\chat-front\package-lock.json, code is 18412, comment is 0, blank is 2.
+CLIENT\chat-front\package.json, code is 52, comment is 0, blank is 3.
+CLIENT\chat-front\public\favicon.png, it is a binary file.
+CLIENT\chat-front\public\index.html, code is 19, comment is 23, blank is 0.
+CLIENT\chat-front\public\manifest.json, code is 15, comment is 0, blank is 1.
+CLIENT\chat-front\public\robots.txt, code is 3, comment is 1, blank is 0.
+CLIENT\chat-front\README.md, code is 21, comment is 4, blank is 15.
+CLIENT\chat-front\src\App.css, code is 72, comment is 0, blank is 10.
+CLIENT\chat-front\src\App.js, code is 30, comment is 1, blank is 4.
+CLIENT\chat-front\src\App.test.js, code is 7, comment is 0, blank is 1.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chat.css, code is 415, comment is 0, blank is 82.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chat.jsx, code is 221, comment is 0, blank is 59.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chatinput.css, code is 109, comment is 54, blank is 30.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\chatinput.jsx, code is 88, comment is 0, blank is 26.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\deletechatsvg.jsx, code is 9, comment is 0, blank is 2.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\nochat.css, code is 35, comment is 31, blank is 10.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\nochat.jsx, code is 10, comment is 0, blank is 3.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\record.gif, it is a binary file.
+CLIENT\chat-front\src\chathome\chatmenu\CHATBOX\reportsvg.jsx, code is 9, comment is 0, blank is 2.
+CLIENT\chat-front\src\chathome\chatmenu\contactload.gif, it is a binary file.
+CLIENT\chat-front\src\chathome\chatmenu\contacts.css, code is 89, comment is 1, blank is 21.
+CLIENT\chat-front\src\chathome\chatmenu\contacts.jsx, code is 69, comment is 11, blank is 20.
+CLIENT\chat-front\src\chathome\chatmenu\dropdown.png, it is a binary file.
+CLIENT\chat-front\src\chathome\chatmenu\gitstar.png, it is a binary file.
+CLIENT\chat-front\src\chathome\chatmenu\header.css, code is 231, comment is 0, blank is 40.
+CLIENT\chat-front\src\chathome\chatmenu\header.jsx, code is 87, comment is 1, blank is 12.
+CLIENT\chat-front\src\chathome\chatmenu\index.jsx, code is 78, comment is 0, blank is 20.
+CLIENT\chat-front\src\chathome\chatmenu\style.css, code is 44, comment is 0, blank is 7.
+CLIENT\chat-front\src\chathome\loading.jsx, code is 46, comment is 17, blank is 4.
+CLIENT\chat-front\src\chathome\loadingsvg\loading.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading1.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading2.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading3.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading4.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\loadingsvg\loading5.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\chathome\style.css, code is 78, comment is 0, blank is 17.
+CLIENT\chat-front\src\index.css, code is 13, comment is 0, blank is 2.
+CLIENT\chat-front\src\index.js, code is 15, comment is 3, blank is 2.
+CLIENT\chat-front\src\login\index.jsx, code is 93, comment is 0, blank is 15.
+CLIENT\chat-front\src\login\lock.json, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\login\login.css, code is 150, comment is 0, blank is 38.
+CLIENT\chat-front\src\login\svg.jsx, code is 11, comment is 0, blank is 3.
+CLIENT\chat-front\src\login\svgstyle.css, code is 30, comment is 0, blank is 7.
+CLIENT\chat-front\src\logo.svg, code is 1, comment is 0, blank is 0.
+CLIENT\chat-front\src\reportWebVitals.js, code is 12, comment is 0, blank is 1.
+CLIENT\chat-front\src\setupTests.js, code is 1, comment is 4, blank is 0.
+CLIENT\chat-front\src\signup\index.jsx, code is 146, comment is 0, blank is 21.
+CLIENT\chat-front\src\signup\signup.css, code is 148, comment is 0, blank is 34.
+CLIENT\chat-front\src\signup\svglogo.jsx, code is 12, comment is 0, blank is 4.
+CLIENT\chat-front\src\utils\apiroutes.js, code is 10, comment is 1, blank is 1.
+SERVER\.env, code is 2, comment is 0, blank is 0.
+SERVER\.gitignore, code is 2, comment is 0, blank is 1.
+SERVER\controllers\messagescontroller.js, code is 46, comment is 0, blank is 7.
+SERVER\controllers\reportcontroller.js, code is 22, comment is 0, blank is 3.
+SERVER\controllers\usercontroller.js, code is 83, comment is 0, blank is 18.
+SERVER\index.js, code is 50, comment is 2, blank is 26.
+SERVER\model\mesasgemodel.js, code is 20, comment is 0, blank is 2.
+SERVER\model\reportmodel.js, code is 28, comment is 0, blank is 2.
+SERVER\model\usermodel.js, code is 33, comment is 0, blank is 2.
+SERVER\package-lock.json, code is 3161, comment is 0, blank is 1.
+SERVER\package.json, code is 23, comment is 0, blank is 0.
+SERVER\README.md, it is a binary file.
+SERVER\routes\messagesroute.js, code is 6, comment is 0, blank is 5.
+SERVER\routes\userroutes.js, code is 10, comment is 0, blank is 3.
+tempCodeRunnerFile.javascript, code is 50, comment is 1, blank is 5.
+===============================================================================

@@ -1,0 +1,1093 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\prade\\CHAT-NEXUS",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-02-23 20:26:45",
+            "filesum": 77,
+            "codesum": 24250,
+            "commentsum": 205,
+            "blanksum": 572,
+            "statistics": {
+                "": {
+                    "code": 22,
+                    "comment": 1,
+                    "blank": 6
+                },
+                ".json": {
+                    "code": 21691,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".js": {
+                    "code": 331,
+                    "comment": 13,
+                    "blank": 63
+                },
+                ".md": {
+                    "code": 21,
+                    "comment": 4,
+                    "blank": 15
+                },
+                ".css": {
+                    "code": 1315,
+                    "comment": 88,
+                    "blank": 281
+                },
+                ".jsx": {
+                    "code": 839,
+                    "comment": 1,
+                    "blank": 191
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 6,
+                    "comment": 75,
+                    "blank": 9
+                },
+                ".html": {
+                    "code": 21,
+                    "comment": 23,
+                    "blank": 0
+                },
+                ".map": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\asset-manifest.json"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\build\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\index.html"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\build\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\build\\robots.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 2,
+                    "filename": "CLIENT\\chat-front\\build\\static\\css\\main.64621b8b.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\css\\main.64621b8b.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\787.40a0162b.chunk.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\787.40a0162b.chunk.js.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.3eb9c365.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 0,
+                    "comment": 73,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.3eb9c365.js.LICENSE.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.3eb9c365.js.map"
+                },
+                {
+                    "blank": 2,
+                    "code": 18384,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\package.json"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 23,
+                    "filename": "CLIENT\\chat-front\\public\\index.html"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\public\\robots.txt"
+                },
+                {
+                    "blank": 15,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "CLIENT\\chat-front\\README.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\App.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\App.test.js"
+                },
+                {
+                    "blank": 84,
+                    "code": 415,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chat.css"
+                },
+                {
+                    "blank": 59,
+                    "code": 221,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chat.jsx"
+                },
+                {
+                    "blank": 30,
+                    "code": 109,
+                    "comment": 54,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chatinput.css"
+                },
+                {
+                    "blank": 26,
+                    "code": 88,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chatinput.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\deletechatsvg.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 34,
+                    "comment": 31,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\nochat.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\nochat.jsx"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\record.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\recording.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\reportsvg.jsx"
+                },
+                {
+                    "blank": 21,
+                    "code": 89,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\contacts.css"
+                },
+                {
+                    "blank": 17,
+                    "code": 66,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\contacts.jsx"
+                },
+                {
+                    "blank": 30,
+                    "code": 188,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\header.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 62,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\header.jsx"
+                },
+                {
+                    "blank": 19,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\index.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\style.css"
+                },
+                {
+                    "blank": 14,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loading.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading1.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading2.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading3.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading4.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading5.json"
+                },
+                {
+                    "blank": 16,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\style.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 3,
+                    "filename": "CLIENT\\chat-front\\src\\index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 93,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\index.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\lock.json"
+                },
+                {
+                    "blank": 38,
+                    "code": 150,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\login.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\svg.jsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\svgstyle.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\logo.svg"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\reportWebVitals.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "CLIENT\\chat-front\\src\\setupTests.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 146,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\index.jsx"
+                },
+                {
+                    "blank": 34,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\signup.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\svglogo.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\utils\\apiroutes.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "SERVER\\.env"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "SERVER\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\messagescontroller.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\reportcontroller.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\usercontroller.js"
+                },
+                {
+                    "blank": 18,
+                    "code": 43,
+                    "comment": 2,
+                    "filename": "SERVER\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\mesasgemodel.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\reportmodel.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\usermodel.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 3161,
+                    "comment": 0,
+                    "filename": "SERVER\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "SERVER\\package.json"
+                },
+                {
+                    "filename": "SERVER\\README.md",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "SERVER\\routes\\messagesroute.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "SERVER\\routes\\userroutes.js"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2023-02-26 21:26:55",
+            "filesum": 80,
+            "codesum": 24503,
+            "commentsum": 241,
+            "blanksum": 610,
+            "statistics": {
+                ".json": {
+                    "code": 21711,
+                    "comment": 0,
+                    "blank": 8
+                },
+                "": {
+                    "code": 22,
+                    "comment": 1,
+                    "blank": 6
+                },
+                ".js": {
+                    "code": 375,
+                    "comment": 15,
+                    "blank": 77
+                },
+                ".javascript": {
+                    "code": 50,
+                    "comment": 1,
+                    "blank": 5
+                },
+                ".txt": {
+                    "code": 6,
+                    "comment": 80,
+                    "blank": 10
+                },
+                ".md": {
+                    "code": 21,
+                    "comment": 4,
+                    "blank": 15
+                },
+                ".html": {
+                    "code": 20,
+                    "comment": 23,
+                    "blank": 0
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 1415,
+                    "comment": 88,
+                    "blank": 298
+                },
+                ".jsx": {
+                    "code": 879,
+                    "comment": 29,
+                    "blank": 191
+                },
+                ".map": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\asset-manifest.json"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\build\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\build\\robots.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 2,
+                    "filename": "CLIENT\\chat-front\\build\\static\\css\\main.dea08c7e.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\css\\main.dea08c7e.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\787.40a0162b.chunk.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\787.40a0162b.chunk.js.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.8b2cd877.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 0,
+                    "comment": 78,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.8b2cd877.js.LICENSE.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\build\\static\\js\\main.8b2cd877.js.map"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\build\\static\\media\\contactload.db8d98a7096f5f6f3fee.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\build\\static\\media\\record.83b096d830fb447f218c.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 18412,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\package.json"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 23,
+                    "filename": "CLIENT\\chat-front\\public\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\public\\robots.txt"
+                },
+                {
+                    "blank": 15,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "CLIENT\\chat-front\\README.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\App.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 30,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\App.test.js"
+                },
+                {
+                    "blank": 82,
+                    "code": 415,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chat.css"
+                },
+                {
+                    "blank": 59,
+                    "code": 221,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chat.jsx"
+                },
+                {
+                    "blank": 30,
+                    "code": 109,
+                    "comment": 54,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chatinput.css"
+                },
+                {
+                    "blank": 26,
+                    "code": 88,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\chatinput.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\deletechatsvg.jsx"
+                },
+                {
+                    "blank": 10,
+                    "code": 35,
+                    "comment": 31,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\nochat.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\nochat.jsx"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\record.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\CHATBOX\\reportsvg.jsx"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\contactload.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 21,
+                    "code": 89,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\contacts.css"
+                },
+                {
+                    "blank": 20,
+                    "code": 69,
+                    "comment": 11,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\contacts.jsx"
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\dropdown.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\gitstar.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 40,
+                    "code": 231,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\header.css"
+                },
+                {
+                    "blank": 12,
+                    "code": 87,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\header.jsx"
+                },
+                {
+                    "blank": 20,
+                    "code": 78,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\index.jsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\chatmenu\\style.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 46,
+                    "comment": 17,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loading.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading1.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading2.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading3.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading4.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\loadingsvg\\loading5.json"
+                },
+                {
+                    "blank": 17,
+                    "code": 78,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\chathome\\style.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 3,
+                    "filename": "CLIENT\\chat-front\\src\\index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 93,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\index.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\lock.json"
+                },
+                {
+                    "blank": 38,
+                    "code": 150,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\login.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\svg.jsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\login\\svgstyle.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\logo.svg"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\reportWebVitals.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "CLIENT\\chat-front\\src\\setupTests.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 146,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\index.jsx"
+                },
+                {
+                    "blank": 34,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\signup.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "CLIENT\\chat-front\\src\\signup\\svglogo.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "CLIENT\\chat-front\\src\\utils\\apiroutes.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "SERVER\\.env"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "SERVER\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\messagescontroller.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\reportcontroller.js"
+                },
+                {
+                    "blank": 18,
+                    "code": 83,
+                    "comment": 0,
+                    "filename": "SERVER\\controllers\\usercontroller.js"
+                },
+                {
+                    "blank": 26,
+                    "code": 50,
+                    "comment": 2,
+                    "filename": "SERVER\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\mesasgemodel.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\reportmodel.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "SERVER\\model\\usermodel.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 3161,
+                    "comment": 0,
+                    "filename": "SERVER\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "SERVER\\package.json"
+                },
+                {
+                    "filename": "SERVER\\README.md",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "SERVER\\routes\\messagesroute.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "SERVER\\routes\\userroutes.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 50,
+                    "comment": 1,
+                    "filename": "tempCodeRunnerFile.javascript"
+                }
+            ]
+        }
+    ]
+}
