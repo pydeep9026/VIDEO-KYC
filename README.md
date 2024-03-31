@@ -41,6 +41,28 @@ The Full Stack MERN (MongoDB, Express.js, React.js, Node.js) project for a mini 
 note: this project was initialised from my old project chat-nexus( https://github.com/pydeep9026/chat-nexus-client) added video calling, snapshot capture,roomid,etc for kyc
 
 
+Features:
+
+User Authentication: The platform incorporates user authentication mechanisms to ensure secure access to the KYC services. Users can register, login, and manage their accounts securely.
+
+Real-time Video KYC: Utilizing WebRTC technology, the platform enables real-time video KYC sessions between users and KYC agents. This feature ensures smooth communication and verification processes.
+
+Chat Functionality: Integrated chat functionality allows users and KYC agents to communicate efficiently during the verification process. Real-time messaging ensures quick responses and clarifications.
+
+Video Calling: The platform supports video calling functionalities, allowing for direct communication between users and KYC agents. High-quality video calls enhance the KYC experience and foster trust between parties.
+
+Snapshot Capture and Saving: Users can capture snapshots during the KYC process for documentation purposes. The platform provides options to save snapshots securely, ensuring compliance with regulatory requirements.
+
+Room ID Generation: Each KYC session is assigned a unique room ID, enabling easy identification and tracking of sessions. Room IDs streamline the process for both users and KYC agents, facilitating efficient handling of KYC requests.
+
+Responsive UI/UX: The platform features a responsive and intuitive user interface, ensuring seamless navigation and accessibility across devices. User-friendly design elements enhance the overall KYC experience.
+
+Security Measures: Robust security measures are implemented to safeguard sensitive user data and ensure compliance with data protection regulations. Encryption protocols and secure data storage mechanisms are employed to mitigate security risks.
+
+Error Handling and Logging: Comprehensive error handling mechanisms are integrated to identify and address issues promptly during the KYC process. Logging functionalities track system activities and provide insights for performance optimization.
+
+Scalability: The architecture of the platform is designed for scalability, allowing it to accommodate a growing user base and handle increased KYC demand efficiently. Scalability ensures optimal performance and reliability of the platform.
+
 
 ### Built With
 
